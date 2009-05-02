@@ -1,11 +1,11 @@
 = How to Use =
 
-1. Download Wifi Helper from Market
-2. Type in network name
-3. Select authentication protocol
-4. Select phase2 protocol
-5. Select neccessary certs files.
-   ** you can copy files from your computer to your sdcard. any directory is fine.
-6. Type in username, password if required.
-7. Click OK
-8. Restart your wifi.(disable it , re-enable it)
+ * Download Wifi Helper from Market
+ * Type in network name
+ * Select authentication protocol
+ * Select phase2 protocol
+ * Select neccessary certs files.
+   * you can copy files from your computer to your sdcard. any directory is fine.
+ * Type in username, password if required.
+ * Click OK
+ * Restart your wifi.(disable it , re-enable it)
